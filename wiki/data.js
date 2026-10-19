@@ -578,7 +578,7 @@ window.WIKI_DATA = {
   
   "crystals": "Icons-20261019T130316Z-1-001/Icons/Stats/icon_crystals.png",
   "cpu": "https://raw.githubusercontent.com/Aliff34/Lazy-Apocalypse-Tower-Defense/refs/heads/main/Icons-20261019T130316Z-1-001/Icons/Stats/icon_item_cpu.png",
-  "prisms": "Icons-20261019T130316Z-1-001/Icons/Stats/icon_prisms.png",
+  "prisms": "https://raw.githubusercontent.com/Aliff34/Lazy-Apocalypse-Tower-Defense/refs/heads/main/Icons-20261019T130316Z-1-001/Icons/Stats/icon_item_prism.png",
   "coffee": "Icons-20261019T130316Z-1-001/Icons/Stats/icon_coffee.png",
   "followers": "Icons-20261019T130316Z-1-001/Icons/Stats/icon_followers.png",
   "tickets": "Icons-20261019T130316Z-1-001/Icons/Stats/icon_tickets.png",
