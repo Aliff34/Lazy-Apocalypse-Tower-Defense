@@ -576,7 +576,7 @@ window.WIKI_DATA = {
   "petTokens": "Pets-20261019T130319Z-1-001/Pets/icon_pepino_star_token.png",
 
   
-  "crystals": "https://raw.githubusercontent.com/Aliff34/Lazy-Apocalypse-Tower-Defense/refs/heads/main/Icons-20261019T130316Z-1-001/Icons/Stats/icon_item_gem.png",
+  "crystals": "assets/icons/icon_item_gem.png",
   "cpu": "https://raw.githubusercontent.com/Aliff34/Lazy-Apocalypse-Tower-Defense/refs/heads/main/Icons-20261019T130316Z-1-001/Icons/Stats/icon_item_cpu.png",
   "prisms": "https://raw.githubusercontent.com/Aliff34/Lazy-Apocalypse-Tower-Defense/refs/heads/main/Icons-20261019T130316Z-1-001/Icons/Stats/icon_item_prism.png",
   "coffee": "Icons-20261019T130316Z-1-001/Icons/Stats/icon_coffee.png",
