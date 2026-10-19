@@ -74,11 +74,7 @@ window.WIKI_DATA = {
       "image": "Icons-20261019T130316Z-1-001/Icons/Parts/Tier 1/Inventory/icon_gaming_chair_inventory.png",
       "tier": 1
     },
-    {
-      "name": "Grandma Chair",
-      "image": "Icons-20261019T130316Z-1-001/Icons/Parts/Tier 1/Inventory/icon_grandma_chair_inventory (locked).png",
-      "tier": 1
-    },
+ 
     {
       "name": "Grandma Chair",
       "image": "Icons-20261019T130316Z-1-001/Icons/Parts/Tier 1/Inventory/icon_grandma_chair_inventory.png",
@@ -102,41 +98,25 @@ window.WIKI_DATA = {
       "tier": 1
     },
    
-    {
-      "name": "Saw",
-      "image": "Icons-20261019T130316Z-1-001/Icons/Parts/Tier 1/Inventory/icon_saw_inventory (locked).png",
-      "tier": 1
-    },
+ 
     {
       "name": "Saw",
       "image": "Icons-20261019T130316Z-1-001/Icons/Parts/Tier 1/Inventory/icon_saw_inventory.png",
       "tier": 1
     },
-    {
-      "name": "Saw Launcher(Locked)",
-      "image": "Icons-20261019T130316Z-1-001/Icons/Parts/Tier 1/Inventory/icon_saw_launcher_inventory(locked).png",
-      "tier": 1
-    },
+  
     {
       "name": "Saw Launcher",
       "image": "Icons-20261019T130316Z-1-001/Icons/Parts/Tier 1/Inventory/icon_saw_launcher_inventory.png",
       "tier": 1
     },
-    {
-      "name": "Spiky Bat",
-      "image": "Icons-20261019T130316Z-1-001/Icons/Parts/Tier 1/Inventory/icon_spiky_bat_inventory (locked).png",
-      "tier": 1
-    },
+
     {
       "name": "Spiky Bat",
       "image": "Icons-20261019T130316Z-1-001/Icons/Parts/Tier 1/Inventory/icon_spiky_bat_inventory.png",
       "tier": 1
     },
-    {
-      "name": "Tennis Cannon",
-      "image": "Icons-20261019T130316Z-1-001/Icons/Parts/Tier 1/Inventory/icon_tennis_cannon_inventory (locked).png",
-      "tier": 1
-    },
+   
     {
       "name": "Tennis Cannon",
       "image": "Icons-20261019T130316Z-1-001/Icons/Parts/Tier 1/Inventory/icon_tennis_cannon_inventory.png",
