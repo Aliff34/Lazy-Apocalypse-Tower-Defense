@@ -575,12 +575,5 @@ window.WIKI_DATA = {
   "likes": "Icons-20261019T130316Z-1-001/Icons/Stats/Icon_like__.png",
   "petTokens": "Pets-20261019T130319Z-1-001/Pets/icon_pepino_star_token.png"
 
-  // 👉 PUT THEM RIGHT HERE:
-  "cpu": "https://raw.githubusercontent.com/Aliff34/Lazy-Apocalypse-Tower-Defense/refs/heads/main/Icons-20261019T130316Z-1-001/Icons/Stats/icon_item_cpu.png",
-  "prisms": "https://raw.githubusercontent.com/Aliff34/Lazy-Apocalypse-Tower-Defense/refs/heads/main/Icons-20261019T130316Z-1-001/Icons/Stats/icon_item_prism.png",
-  "coffee": "https://raw.githubusercontent.com/Aliff34/Lazy-Apocalypse-Tower-Defense/refs/heads/main/Icons-20261019T130316Z-1-001/Icons/Stats/icon_coffee.png",
-  "followers": "YOUR_FOLLOWERS_IMAGE_PATH.png",
-  "tickets": "YOUR_TICKETS_IMAGE_PATH.png",
-  "event": "YOUR_EVENT_IMAGE_PATH.png",
-  "artifact": "YOUR_ARTIFACT_IMAGE_PATH.png"
+ 
 };
