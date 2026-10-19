@@ -581,9 +581,9 @@ window.WIKI_DATA = {
   "prisms": "https://raw.githubusercontent.com/Aliff34/Lazy-Apocalypse-Tower-Defense/refs/heads/main/Icons-20261019T130316Z-1-001/Icons/Stats/icon_item_prism.png",
   "coffee": "Icons-20261019T130316Z-1-001/Icons/Stats/icon_coffee.png",
   "followers": "Icons-20261019T130316Z-1-001/Icons/Stats/icon_followers.png",
-  "tickets": "Icons-20261019T130316Z-1-001/Icons/Stats/icon_tickets.png",
-  "event": "Icons-20261019T130316Z-1-001/Icons/Stats/icon_event.png",
-  "artifact": "Icons-20261019T130316Z-1-001/Icons/Stats/icon_artifact.png"
+  "tickets": "https://raw.githubusercontent.com/Aliff34/Lazy-Apocalypse-Tower-Defense/refs/heads/main/Icons-20261019T130316Z-1-001/Icons/Stats/icon_tonys_lab_ticket.png",
+  "event": "https://raw.githubusercontent.com/Aliff34/Lazy-Apocalypse-Tower-Defense/refs/heads/main/Icons-20261019T130316Z-1-001/Icons/Stats/icon_gacha_coupon.png",
+  "artifact": "https://raw.githubusercontent.com/Aliff34/Lazy-Apocalypse-Tower-Defense/refs/heads/main/Icons-20261019T130316Z-1-001/Icons/Stats/icon_toy_mouse.png"
 
  
 };
