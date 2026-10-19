@@ -573,7 +573,17 @@ window.WIKI_DATA = {
   "coins": "Icons-20261019T130316Z-1-001/Icons/Stats/icon_coins.png",
   "logo": "gamelogo.jpg",
   "likes": "Icons-20261019T130316Z-1-001/Icons/Stats/Icon_like__.png",
-  "petTokens": "Pets-20261019T130319Z-1-001/Pets/icon_pepino_star_token.png"
+  "petTokens": "Pets-20261019T130319Z-1-001/Pets/icon_pepino_star_token.png",
+
+  
+  "crystals": "Icons-20261019T130316Z-1-001/Icons/Stats/icon_crystals.png",
+  "cpu": "Icons-20261019T130316Z-1-001/Icons/Stats/icon_cpu.png",
+  "prisms": "Icons-20261019T130316Z-1-001/Icons/Stats/icon_prisms.png",
+  "coffee": "Icons-20261019T130316Z-1-001/Icons/Stats/icon_coffee.png",
+  "followers": "Icons-20261019T130316Z-1-001/Icons/Stats/icon_followers.png",
+  "tickets": "Icons-20261019T130316Z-1-001/Icons/Stats/icon_tickets.png",
+  "event": "Icons-20261019T130316Z-1-001/Icons/Stats/icon_event.png",
+  "artifact": "Icons-20261019T130316Z-1-001/Icons/Stats/icon_artifact.png"
 
  
 };
