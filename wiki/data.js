@@ -57,11 +57,7 @@ window.WIKI_DATA = {
       "image": "Icons-20261019T130316Z-1-001/Icons/Parts/Tier 1/Inventory/icon_firework_launcher_inventory.png",
       "tier": 1
     },
-    {
-      "name": "Flamethrower",
-      "image": "Icons-20261019T130316Z-1-001/Icons/Parts/Tier 1/Inventory/icon_flamethrower_inventory (locked).png",
-      "tier": 1
-    },
+    
     {
       "name": "Flamethrower",
       "image": "Icons-20261019T130316Z-1-001/Icons/Parts/Tier 1/Inventory/icon_flamethrower_inventory.png",
@@ -72,11 +68,7 @@ window.WIKI_DATA = {
       "image": "Icons-20261019T130316Z-1-001/Icons/Parts/Tier 1/Inventory/icon_gamepad_inventory.png",
       "tier": 1
     },
-    {
-      "name": "Gaming Chair",
-      "image": "Icons-20261019T130316Z-1-001/Icons/Parts/Tier 1/Inventory/icon_gaming_chair_inventory (locked).png",
-      "tier": 1
-    },
+
     {
       "name": "Gaming Chair",
       "image": "Icons-20261019T130316Z-1-001/Icons/Parts/Tier 1/Inventory/icon_gaming_chair_inventory.png",
@@ -97,31 +89,19 @@ window.WIKI_DATA = {
       "image": "Icons-20261019T130316Z-1-001/Icons/Parts/Tier 1/Inventory/icon_impulse_inventory.png",
       "tier": 1
     },
-    {
-      "name": "Minigun(Locked)",
-      "image": "Icons-20261019T130316Z-1-001/Icons/Parts/Tier 1/Inventory/icon_minigun_inventory(locked).png",
-      "tier": 1
-    },
+   
     {
       "name": "Minigun",
       "image": "Icons-20261019T130316Z-1-001/Icons/Parts/Tier 1/Inventory/icon_minigun_inventory.png",
       "tier": 1
     },
-    {
-      "name": "Nailgun",
-      "image": "Icons-20261019T130316Z-1-001/Icons/Parts/Tier 1/Inventory/icon_nailgun_inventory (locked).png",
-      "tier": 1
-    },
+  
     {
       "name": "Nailgun",
       "image": "Icons-20261019T130316Z-1-001/Icons/Parts/Tier 1/Inventory/icon_nailgun_inventory.png",
       "tier": 1
     },
-    {
-      "name": "Rocket Launcher(Locked)",
-      "image": "Icons-20261019T130316Z-1-001/Icons/Parts/Tier 1/Inventory/icon_rocket_launcher_inventory(locked).png",
-      "tier": 1
-    },
+   
     {
       "name": "Saw",
       "image": "Icons-20261019T130316Z-1-001/Icons/Parts/Tier 1/Inventory/icon_saw_inventory (locked).png",
