@@ -36,11 +36,7 @@ window.WIKI_DATA = {
     "Woman Tomboy": "Avatars-20261019T130316Z-1-001/Avatars/woman_tomboy.png"
   },
   "parts": [
-    {
-      "name": "Classic Chair",
-      "image": "Icons-20261019T130316Z-1-001/Icons/Parts/Tier 1/Inventory/icon_classic_chair_inventory (locked).png",
-      "tier": 1
-    },
+
     {
       "name": "Classic Chair",
       "image": "Icons-20261019T130316Z-1-001/Icons/Parts/Tier 1/Inventory/icon_classic_chair_inventory.png",
